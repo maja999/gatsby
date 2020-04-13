@@ -1,0 +1,1612 @@
+{
+  "Rent & Return": {
+    "sub_products": {
+      "On Demand": {
+        "answers": [
+          [
+            {
+              "Order": "1000",
+              "Answer ID": "1668",
+              "Summary": "Getting started",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand is a way to watch thousands of movies and TV shows without visiting the Box. You can stream or download directly from your tablet, phone, computer, Roku device, or select Smart TV. Find out how it works and get device registration steps at <a href=\"https://www.redbox.com/ondemand-howitworks\">https://www.redbox.com/ondemand-howitworks</a>.<br/>\n<br/>\nThere are two ways to access On Demand:<br/>\n<br/>\n1. Computer - access your Redbox account and sign in: <a href=\"https://www.redbox.com/register\">https://www.redbox.com/register</a><br/>\n2. Tablet, Phone, Roku, Smart TV - download the Redbox app in applicable app store and sign in with the same credentials as your online account.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1669",
+              "Summary": "Rental and expiration On Demand",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "If you rent On Demand, you’ll have 30 days to start watching.  Once you start watching, you'll have 48 hours to finish.<br/>\n<br/>\nThe amount of time left in your rental period is listed on the movie’s detail page, in your <a href=\"https://www.redbox.com/library\">https://www.redbox.com/library</a>, and in the Redbox app on iOS and Android. <br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1670",
+              "Summary": "Parental controls",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "<i>Parental control</i> options are not available for On Demand. However, we’re always adding new features and capabilities, so be on the lookout for any updates in the future.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1696",
+              "Summary": "Installing and launching",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "To install and launch On Demand on your device, visit <a href=\"https://www.redbox.com/howitworks\">https://www.redbox.com/howitworks</a> and scroll down to the Setting Up Your Device section. Select the device you want to use and instructions will appear just below it.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1698",
+              "Summary": "Motion Picture Association of America (MPAA)",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "The MPAA is a trade association that provides standard ratings for movies released to movie theaters. To learn more about the rating system, please visit them at:  <a href=\"https://www.mpaa.org\">https://www.mpaa.org</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1710",
+              "Summary": "Movie and TV show availability",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand offers thousands of movies, including new releases. If you don't see a new release you want, check to see if it's available on DVD or Blu-ray.<br/>\n<br/>\nOur agreements with film studios and distributors determine when a film is available to rent or own. Some movies are in their digital-rental window for a limited time only. Often, movies will be available to purchase for a few weeks before they’re available to rent.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1713",
+              "Summary": "Streaming on multiple devices",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "If you own the movie or TV show, you can stream on up to five devices simultaneously. If you’ve rented it, you can only stream on one device at a time.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1714",
+              "Summary": "Supported devices and requirements",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "On Demand",
+              "Answer": "You can register up to five supported devices. The table below lists all supported devices.<br/>\n<br/>\n<b>Supported Devices</b><br/><br/>\n1. LG, Samsung, and VIZIO SmartCast Smart TV<br/>\n2. Windows or Mac computer<br/>\n3. Android or iOS mobile or tablet<br/>\n4. Roku<br/>\n5. TV via Chromecast<br/>\n6. Apple TV<br/>\n<br/>  \n<br/>\n<b>Compatable Web Browsers</b><br/><br/>\n1. Google Chrome<br/>\n2. Firefox<br/>\n3. Internet Explorer*<br/>\n4. Edge<br/>\n5. Safari<br/>\n<br/><br/>\n<b>Recommended Internet Speed</b><br/><br/>\n3.0 megabits per second (Mbps)<br/>\n<br/><br/>\n<b>Silverlight Plugin Required for:</b><br/><br/>\n1. IE 11<br/>\n2. Windows 7<br/>\n3. Windows 8.1<br/>\n4. Mac OS older than 10.12 (Sierra)<br/>\n<br/>\nDownload it here: <a href=\"https://www.microsoft.com/silverlight/\">https://www.microsoft.com/silverlight/</a><br/>\n<br/><br/>\nFor more information on our supported devices, go to <a href=\"https://www.redbox.com/ondemand-howitworks\">https://www.redbox.com/ondemand-howitworks</a>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "At the Box": {
+        "answers": [
+          [
+            {
+              "Order": "1000",
+              "Answer ID": "1671",
+              "Summary": "Ratings and censoring",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Movies available at Redbox are rated by the Motion Picture Association of America (MPAA) and the Entertainment Softward Rating Board (ESRB). We require that you acknowledge your age when renting movies with a Restricted (R) with a Mature (M) rating. We do not edit or censor the movies we carry.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1675",
+              "Summary": "Accessibility for visually impaired",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "For assistance renting at a Box, please call 1-866-REDBOX3 (1-866-733-2693). When prompted, press \"4.\" to speak with a representative who can lead you through the rental process.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1676",
+              "Summary": "Locations",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "We currently operate about 41,500 boxes across the U.S. and Puerto Rico. <br/>\n<br/>\nFind the Box nearest you by visiting <a href=\"https://www.redbox.com/locations\">https://www.redbox.com/locations</a> or click the GPS icon, commonly located in the lower right corner of your mobile app.<br/>\n<br/>\nIf you're interested in installing a Box in your store or business, please click this link: <a href=\"https://about.redbox.com/request-a-kiosk\">https://about.redbox.com/request-a-kiosk</a> and complete our application form. Before a box is installed, an analysis of a location's suitability needs to be done. After we receive your application, our team will begin the analysis process.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1680",
+              "Summary": "Rental fees",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Our rental fees are charged per night:<br/>\n<br/>\nDVDs - $1.80<br/>\nBlu-Ray - $2.00<br/>\n4K UHD - $2.50<br/>\n<br/>\nAll fees will be clearly displayed during the checkout process. If available, multi-night pricing will be presented during the checkout process if you would like to keep the disc for multiple nights at a discounted rate. Prices are subject to applicable sales tax and may vary by market.<br/>\n<br/>\nWas this answer helpful?<br/>",
+              "Popular": "1"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1698",
+              "Summary": "Motion Picture Association of America (MPAA)",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "The MPAA is a trade association that provides standard ratings for movies released to movie theaters. To learn more about the rating system, please visit them at:  <a href=\"https://www.mpaa.org\">https://www.mpaa.org</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1700",
+              "Summary": "Returning",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "You can return your disc at any Box location. Its as simple as that!<br/>\n<br/>\nFind the nearest Box location at: <a href=\"https://www.redbox.com/locations\">https://www.redbox.com/locations</a>. On your mobile device, in the app, the GPS locator is on the lower right corner of any screen.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1701",
+              "Summary": "Late Returns",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Return your disc to any Box location before 9:00 pm the day after you reserve or rent. Returns after 9:00 pm will be subject to another nightly rental fee.<br/>\n<br/>\nExamples:<br/>\n<br/>\nI reserve the disc online at 5 pm on Monday.<br/>\nI pick the disc up from the Box at 8 am on Tuesday.<br/>\nThe disc is due back at 9 pm Tuesday night.<br/>\nI rent a disc at the Box at 3 pm on Wednesday.<br/>\nThe disc is due back before 9 pm Thursday night.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1710",
+              "Summary": "Movie and TV show availability",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Redbox On Demand offers thousands of movies, including new releases. If you don't see a new release you want, check to see if it's available on DVD or Blu-ray.<br/>\n<br/>\nOur agreements with film studios and distributors determine when a film is available to rent or own. Some movies are in their digital-rental window for a limited time only. Often, movies will be available to purchase for a few weeks before they’re available to rent.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1750",
+              "Summary": "Movie formats available",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Redbox carries DVD and Blu-Ray<span style=\"font-size:70%;vertical-align:super;\">TM&nbsp;</span> Discs in our Boxes.<br/>\n<br/>\nWe also have a limited supply of 4K Ultra HD Blu-Ray<span style=\"font-size:70%;vertical-align:super;\">TM&nbsp;</span> Discs avaialble for rent at select locations in Austin, Colorado Springs, Des Moines, Detroit, Kansas City, Los Angeles, Miami, Minneapolis, New York City, Reno, San Diego, San Francisco, Seattle, Spokane and Portland. For more information about 4K UHD <i>availability</i>, go to <a href=\"https://www.redbox.com/4K\">https://www.redbox.com/4K</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1751",
+              "Summary": "Renting at the Box",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "At the Box",
+              "Answer": "Renting movies at the Box is easy! I At the Box, you can<br/>\n<br/>\n1. Select Rent Movies<br/>\n2. Find the movie that you want to rent and select the + sign.<br/>\n3. Select the Check Out button at the bottom of the screen.<br/>\n4. Enter your email address to get a receipt.<br/>\n5. Select the Pay Now button.<br/>\n6. Swipe/Insert your credit / debit card.<br/>\n7. Retrieve your movie.<br/>\n<br/>\nIf you want to earn points and rewards or reserve movies before going to the Box, then sign up for an account at <a href=\"https://www.redbox.com/perks/\">https://www.redbox.com/perks</a>. For faster access at the Box, you can use Box Sign In by entering your mobile number &amp; a 4-digit PIN.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Troubleshooting": {
+        "answers": [
+          [
+            {
+              "Order": "1000",
+              "Answer ID": "1673",
+              "Summary": "Disc does not play",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "There are a few reasons why your <i>disc</i> might not <i>play</i>. The list below offers a few remedies.<br/>\n<br/>\n1. Clean the disc by wiping the disc from the center outwards using a soft cloth (no paper towels).  Clean the disc with a solution of water and mild detergent or rubbing alcohol.  Never use abrasives, solvents, or highly acidic cleansers.<br/>\n2. Ensure that you are playing the correct disc in the correct player with compatible accessories. (For example, playing a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> disc in a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> player with compatabile Blue-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> accessories or playing 4K UHD in a 4K UHD player.)<br/>\n3. Try another disc in the player to verify that the player is not the source of the problem.<br/>\n<br/>\nIf the <i>disc</i> still doesn’t <i>play</i> properly, you can report this thorugh our IVR at 1-866-733-2693 (Option 1) by entering the barcode and your payment information. Return the disc to our Box (before or after reporting this) to prevent additional nightly rental charges.<br/>",
+              "Popular": "1"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1687",
+              "Summary": "Launching the Redbox App",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "If your Redbox app isn't launching, try the following:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify that your mobile device is up to date with software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Close the mobile app and try again.<br/> 4. Power cycle the device.<br/> <br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer is up to date with any available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Close the browser and try again.<br/> 4. Restart your computer.<br/> <br/> <br/> <b>Roku or Smart TV</b><br/> <br/> 1. Check for available software and firmware upgrades.<br/> 2. Restart the device.<br/> 3. Re-launch the application.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1731",
+              "Summary": "Charged twice for rental or purchase",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Multiple charges may be the result of an authorization hold, which financial institutions sometimes take 3-5 days to release. It may also be for a partial payment collection if we were unable to collect the full balance at one time. <br/> <br/> <b>For Rentals</b> - For any transaction involving a rental, you will see an immediate authorization for the one-night balance.  The authorization is released when the discs are returned, then you are charged for the amount due based on the nights out. The authorization is released immediately, however your financial institution may take 3-5 days to process this. If you still have concerns, please contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For Purchases</b> - If you were billed multiple times for a disc that was purchased, please contact our Customer Care team to review the details of the transaction. Contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For On Demand</b> - If you were billed multiple times for an On Demand Transaction (Rental or Purchase), please contact our Customer Care team to review the details of the transaction. When using On Demand, be careful to complete the transaction only one time and not select Submit multiple times. Visit Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>",
+              "Popular": "1"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1748",
+              "Summary": "Lost disc case",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "You can buy a replacement case from any box for the cost of a 1-day DVD rental. Just scroll through the DVD list and look for replacement case at the end.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1749",
+              "Summary": "Reserved at wrong location",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "We'll hold onto your disc until 9 p.m. the day after you reserve it. If you just reserved it today, you've still got time to pick it up. You can check your reservation confirmation email for the address.<br/>\n<br/>\nYou might be able to cancel your reservation if it's still within the rental period and has yet to be picked up. Contact our Care team at 866-733-2693 or <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1753",
+              "Summary": "Maximum number of rentals",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "There are a maximum number of rentals you can have out at a time, even when using separate transactions. Refer to the table below to learn about rental maximums:<br/>\n<br/>\n<b>First Time Customers</b><br/>\n<br/>\nOn your first visit to Redbox (or the first time you use a new payment card at Redbox), you can rent a maximum of 3 discs.<br/>\n<br/>\n<br/>\n<b>Returning Customers</b><br/>\n<br/>\nCustomers who have rented from Redbox before can rent a maximum of 5 discs.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1754",
+              "Summary": "Lost Promo code",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "If you want to use a <i>promo</i> code, you’ll need to have it at the time you’re renting. Here's how:<br/> <br/><br/> <b>Using Promo Codes Attached to Your Online Profile</b><br/> <br/> When you're checking out at the Box, online or through the mobile app, choose Apply Promo and select the promo code you want to apply.<br/> <br/> <b>Using Promo Codes Sent via Email or SMS</b><br/> <br/> You'll need to have the promo code when you are completing the transaction. During the checkout process, choose Apply Promo to manually enter the promo code.<br/> <br/><br/> If you forgot your <i>promo</i> code, you might be able to cancel your reservation as long as it's still within the rental period and has yet to be picked up. Contact our Care team at 866-733-2693 or via chat at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> to learn your options.  Once cancelled, you can process the reservation again using the promo code as long as it is still available.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1755",
+              "Summary": "Credit or debit card requirement",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "A <i>credit</i> card or <i>debit</i> card is <i>required</i> to rent movies, even if you are using a promo code / Redbox Perks. Your <i>credit</i> / <i>debit</i> card acts like a security deposit for your rental, and it’s on hand for daily charges if you want to hold on to your disc for more than one night.<br/> <br/> If you used a promo code or Redbox Perks points to rent the disc, you may see a authorization hold that will drop off within 3-5 days.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Online or Mobile Reservations": {
+        "answers": [
+          [
+            {
+              "Order": "1000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Online or Mobile Reservations",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "1000",
+              "Answer ID": "1752",
+              "Summary": "Reserving movies",
+              "Status": "Public",
+              "Product": "Rent & Return",
+              "Sub-Product": "Online or Mobile Reservations",
+              "Answer": "Want to make sure you get your disc before it rents out?  Reserve it online, here's how:<br/>\n<br/><br/>\n<b>Reserving through the Redbox App</b><br/>\n<br/>    \nSelect Search or Browse to find a title on your Redbox app, then select Rent Now and follow the instructions on the checkout page.<br/>\n<br/>   \n<br/>\n<b>Reserving through Redbox.com</b><br/>\n<br/> \nScroll through the movies at <a href=\"https://www.redbox.com\">https://www.redbox.com</a>, then select Rent Now. Follow the instructions on the checkout page.<br/>\n<br/>\n<br/>\n<b>Canceling Your Reservation</b><br/><br/> \nIf you don’t pick up your reservation, you’ll still be charged for one night's rental because the disc will still be taken out of circulation for other customers that night.<br/>\n<br/>\nYou might be able to cancel your reservation if it's still within the rental period and has yet to be picked up. Contact our Care team at 866-733-2693 or via <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> to learn your options.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "Purchase": {
+    "sub_products": {
+      "At the Box": {
+        "answers": [
+          [
+            {
+              "Order": "2000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "At the Box",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1698",
+              "Summary": "Motion Picture Association of America (MPAA)",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "At the Box",
+              "Answer": "The MPAA is a trade association that provides standard ratings for movies released to movie theaters. To learn more about the rating system, please visit them at:  <a href=\"https://www.mpaa.org\">https://www.mpaa.org</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1712",
+              "Summary": "Purchase movies",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "At the Box",
+              "Answer": "You can purchase previously rented movies at select boxes.<br/>\n<br/>\n<b>At the Box</b> - select Buy Movies on the main page. If you don't see this option, then currently we don't have movies for sale at that particular box.<br/><br/>\n<b>Online</b> -  visit <a href=\"https://redbox.com\">https://www.redbox.com</a> and select 'Movies to Own' under At the Box.  We will place a hold on your credit card for the full amount of the disc until you pick it up. You will be charged when you swipe your card at the box.<br/><br/>\n<b>Pricing</b> - will vary based on the movie.  You can find pricing on the title's detail page.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1750",
+              "Summary": "Movie formats available",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "At the Box",
+              "Answer": "Redbox carries DVD and Blu-Ray<span style=\"font-size:70%;vertical-align:super;\">TM&nbsp;</span> Discs in our Boxes.<br/>\n<br/>\nWe also have a limited supply of 4K Ultra HD Blu-Ray<span style=\"font-size:70%;vertical-align:super;\">TM&nbsp;</span> Discs avaialble for rent at select locations in Austin, Colorado Springs, Des Moines, Detroit, Kansas City, Los Angeles, Miami, Minneapolis, New York City, Reno, San Diego, San Francisco, Seattle, Spokane and Portland. For more information about 4K UHD <i>availability</i>, go to <a href=\"https://www.redbox.com/4K\">https://www.redbox.com/4K</a>.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "On Demand": {
+        "answers": [
+          [
+            {
+              "Order": "2000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1696",
+              "Summary": "Installing and launching",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "To install and launch On Demand on your device, visit <a href=\"https://www.redbox.com/howitworks\">https://www.redbox.com/howitworks</a> and scroll down to the Setting Up Your Device section. Select the device you want to use and instructions will appear just below it.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1698",
+              "Summary": "Motion Picture Association of America (MPAA)",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "The MPAA is a trade association that provides standard ratings for movies released to movie theaters. To learn more about the rating system, please visit them at:  <a href=\"https://www.mpaa.org\">https://www.mpaa.org</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1706",
+              "Summary": "On Demand Overview",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand is a new way to watch thousands of movies and TV shows without visiting the Box. Now, you can stream directly from your tablet, phone, computer, Roku device or select Smart Tvs.<br/>\n<br/>\nIf you rent a movie, you’ll have 30 days to start watching it. Once you start watching it, you'll have 48 hours to finish it. You can also buy movies, that won't expire, to build your Library.<br/>\n<br/>\nWith On Demand, there is also an option to download movies or episodes and watch them offline. And don’t worry – our Box locations aren’t going anywhere! This is just another great way to watch. For more information go to <a href=\"https://www.redbox.com/ondemand-howitworks\">www.redbox.com/ondemand-howitworks</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1707",
+              "Summary": "Purchasing On Demand",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "If you choose to buy On Demand, your purchase never expires. It’s yours to keep and will always be available in your Library located in <a href=\"https://www.redbox.com/library\">https://www.redbox.com/library</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1710",
+              "Summary": "Movie and TV show availability",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand offers thousands of movies, including new releases. If you don't see a new release you want, check to see if it's available on DVD or Blu-ray.<br/>\n<br/>\nOur agreements with film studios and distributors determine when a film is available to rent or own. Some movies are in their digital-rental window for a limited time only. Often, movies will be available to purchase for a few weeks before they’re available to rent.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1713",
+              "Summary": "Streaming on multiple devices",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "If you own the movie or TV show, you can stream on up to five devices simultaneously. If you’ve rented it, you can only stream on one device at a time.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1714",
+              "Summary": "Supported devices and requirements",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "On Demand",
+              "Answer": "You can register up to five supported devices. The table below lists all supported devices.<br/>\n<br/>\n<b>Supported Devices</b><br/><br/>\n1. LG, Samsung, and VIZIO SmartCast Smart TV<br/>\n2. Windows or Mac computer<br/>\n3. Android or iOS mobile or tablet<br/>\n4. Roku<br/>\n5. TV via Chromecast<br/>\n6. Apple TV<br/>\n<br/>  \n<br/>\n<b>Compatable Web Browsers</b><br/><br/>\n1. Google Chrome<br/>\n2. Firefox<br/>\n3. Internet Explorer*<br/>\n4. Edge<br/>\n5. Safari<br/>\n<br/><br/>\n<b>Recommended Internet Speed</b><br/><br/>\n3.0 megabits per second (Mbps)<br/>\n<br/><br/>\n<b>Silverlight Plugin Required for:</b><br/><br/>\n1. IE 11<br/>\n2. Windows 7<br/>\n3. Windows 8.1<br/>\n4. Mac OS older than 10.12 (Sierra)<br/>\n<br/>\nDownload it here: <a href=\"https://www.microsoft.com/silverlight/\">https://www.microsoft.com/silverlight/</a><br/>\n<br/><br/>\nFor more information on our supported devices, go to <a href=\"https://www.redbox.com/ondemand-howitworks\">https://www.redbox.com/ondemand-howitworks</a>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Online or Mobile Reservations": {
+        "answers": [
+          [
+            {
+              "Order": "2000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "Online or Mobile Reservations",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1716",
+              "Summary": "Mobile app and supported devices",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "Online or Mobile Reservations",
+              "Answer": "The Redbox Android™ and iPhone® app is free and available for download. Here's how:<br/>\n<br/>\n<b>Android™</b><br/>\n<br/>\nTo learn more about our Android™ Redbox App or to download the latest version, visit the <a href=\"https://play.google.com/store/apps/details?id=com.redbox.android.activity\">Play Store</a>.<br/>\n<br/><b>iPhone®</b><br/>\n<br/>\nRedbox currently supports iPhone®, iPad® and iPod Touch® running iOs 10.0 or later. To learn more about our App or to download the latest version, go to the <a href=\"https://itunes.apple.com/us/app/redbox/id339532909\">App Store</a>.<br/>\n<br/>\n<b>Other Devices</b><br/>\n<br/>  \nFor <i>device</i> specific questions, we've included some links to commonly used <i>devices</i>.<br/>\n<a href=\"https://support.roku.com/category/200889378--getting-started\">Roku</a><br/>\n<a href=\"https://support.apple.com/en-us/HT204266\">Apple TV</a><br/>\n<a href=\"https://www.lg.com/uk/support/guides/tv/smart-tv/apps\">LG</a><br/>\n<a href=\"https://www.samsung.com/my/support/tv-audio-video/how-to-install-arrange-delete-apps-on-your-samsung-smart-tv/\">Samsung</a><br/>\n<a href=\"https://support.vizio.com/s/article/How-to-add-an-App-to-your-VIZIO-Smart-TV?language=en_US&#8203;\">Vizio</a><br/>\n<br/>   \nYou can access Redbox on other <i>mobile devices</i>, but our site has only been optimized for the Android™ and iPhone®.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Troubleshooting": {
+        "answers": [
+          [
+            {
+              "Order": "2000",
+              "Answer ID": "1703",
+              "Summary": "Viewing transaction history",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "You can view the last 3 months of your transaction history after you've established an online profile with us. Transactions may take up to 48 hours to show up and will display for 90 days.<br/>\n<br/>\nTo view your trasaction history:<br/>\n<br/>\n<b>Web</b>\n<br/><br/> \n1. Visit <a href=\"https://www.redbox.com/Account\">https://www.redbox.com/Account</a> and login<br/>\n2. Select the Transaction History tab to view your financial transactions.<br/>\n3. You can check your rental history at <a href=\"https://www.redbox.com/Account/RentalHistory\">https://www.redbox.com/Account/RentalHistory</a>.<br/>\n<br/>\n<b>Mobile App</b><br/>\n<br/>  \n1. Launch the mobile app and login<br/>\n2. Click on My Redbox<br/>\n3. Click on the Person icon in the upper-left corner<br/>\n4. Click on Transaction History<br/>\n<br/>\nIf you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2000",
+              "Answer ID": "1731",
+              "Summary": "Charged twice for rental or purchase",
+              "Status": "Public",
+              "Product": "Purchase",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Multiple charges may be the result of an authorization hold, which financial institutions sometimes take 3-5 days to release. It may also be for a partial payment collection if we were unable to collect the full balance at one time. <br/> <br/> <b>For Rentals</b> - For any transaction involving a rental, you will see an immediate authorization for the one-night balance.  The authorization is released when the discs are returned, then you are charged for the amount due based on the nights out. The authorization is released immediately, however your financial institution may take 3-5 days to process this. If you still have concerns, please contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For Purchases</b> - If you were billed multiple times for a disc that was purchased, please contact our Customer Care team to review the details of the transaction. Contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For On Demand</b> - If you were billed multiple times for an On Demand Transaction (Rental or Purchase), please contact our Customer Care team to review the details of the transaction. When using On Demand, be careful to complete the transaction only one time and not select Submit multiple times. Visit Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "Free Live TV": {
+    "sub_products": {
+      "Troubleshooting": {
+        "answers": [
+          [
+            {
+              "Order": "2500",
+              "Answer ID": "1672",
+              "Summary": "Enabling closed captioning",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Most of our movies have closed <i>captioning</i> or SDH subtitles (a newer form of closed captioning). To use <i>Closed Captioning</i>, it must be <i>enabled</i> on your device. Here's how:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. The title details page will indicate either closed captioning or SDH.<br/>\n2. We recommend renting a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> disc that has SDH.<br/>\n*Please note that Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> discs only play in Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> players.<br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>  \n1. All On Demand titles have SDH functionality.<br/>  \n2. This feature is controlled through the player menu.<br/>  \n<br/>  \nIf you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1679",
+              "Summary": "Audio issues",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Use the following troubleshooting steps to address audio performance issues:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Make sure the volume is turned up, both on your device and your Redbox Video Player.<br/> 2. Try the sound on another device. If it works, the stream is fine and the issue is related to the device.<br/> 3. Try playing another title.<br/> <br/>    <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1683",
+              "Summary": "Color or contrast",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Your device has a brightness level that you can adjust to your preferences. If the problem continues, visit the Help Center for your device or contact the manufacturer for assistance. We've provided a few helpful links below.<br/>\n<br/>\n<b>Apple TV</b> - <a href=\"https://support.apple.com/apple-tv\">https://support.apple.com/apple-tv</a><br/>\n<b>Samsung TV</b> - <a href=\"https://www.samsung.com/us/support/televisions-home-theater/tvs\">https://www.samsung.com/us/support/televisions-home-theater/tvs</a><br/>\n<b>LG TV</b> - <a href=\"https://www.lg.com/us/support/tvs\">https://www.lg.com/us/support/tvs</a><br/>\n<b>Vizio TV</b> - <a href=\"https://support.vizio.com/s/?language=en_US\">https://support.vizio.com/s/?language=en_US</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1688",
+              "Summary": "Picture and sound synchronization",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Use the following troubleshooting steps for issues related to picture and sound synchronization:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Try the video on another device. If it works, the stream is fine and the issue is related to the device.<br/> 2. Try playing another title.<br/> <br/>   <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b>   <br/> <br/>   1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1694",
+              "Summary": "Visual display",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "If your video doesn't fill your entire screen, check to see if you’re in Full Screen mode. In the video player, the Full Screen icon is the right-most icon in the bottom right, next to the gear icon. Clicking it should expand the video player to fill your entire screen.<br/> <br/> If that doesn’t solve the problem, contact our Customer Care Team <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1765",
+              "Summary": "Buffering",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "The following table provides general troubleshooting for common video performance issues such as buffering:<br/>\n<br/>\n<b>Mobile Device (Phone/Tablet)</b><br/>\n<br/>\n1. Verify your mobile device has all the available software updates.<br/>\n2. Verify that you are on the current version of the application.<br/>\n3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps).<br/>\n4. Close the mobile app and try again.<br/>\n5. Power cycle the device.<br/>\n<br/>\n<b>Web Browser</b><br/>\n<br/>\n1. Verify your computer has all the available software updates.<br/>\n2. Verify you are using a supported web browser.<br/>\n3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps) <br/>\n4. Close your browser and try again.<br/>\n5. Restart your computer.<br/>\n<br/>\nIf this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1766",
+              "Summary": "Channel / Stream Stops Playing",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Use the following general troubleshooting steps for interruptions in the video stream:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all the available software updates.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify your computer has all the available software updates.<br/> 2. Verify you are using a supported web browser.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps) <br/> 4. Close your browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1767",
+              "Summary": "Ad Blockers",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "Free Live TV may experience playback issues if you have ad blockers enabled. You will get a message within the player to disable the ad blocker to continue viewing content.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "About & Features": {
+        "answers": [
+          [
+            {
+              "Order": "2500",
+              "Answer ID": "1768",
+              "Summary": "Features (Pausing, Rewinding, Fast-Forwarding etc.)",
+              "Status": "Public",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Playback commands such as pausing, fast forwarding, rewinding, downloading or recording are not available.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1769",
+              "Summary": "What Is Free Live TV",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Free Live TV is a new product offering with no sign-on required. You can watch dozens of popular channels like TMZ, USA Today and FailArmy - inlcuding our very own Redbox channels featuring hand-picked collections of our personal favorites. With so much variety, there is something for everyone.<br/>\n<br/>\nAs with any streaming service, viewing Free Live TV will use data; so depending on your data plan, charges may apply as issued by your carrier.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1770",
+              "Summary": "Availability",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Free Live TV is currently availabile to a select audience.  We will be rolling it out nationwide soon and continue to check back and try out our free new service.<br/>\n<br/>\nFree Live TV is only available within the United States only.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1771",
+              "Summary": "Supported Devices",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Free Live TV is currently available on the following devices.  Additional devices will be rolling out soon, please check back to our website for the latest updates on supported devices.<br/>\n<br/>\n<b>IPhone / iPad</b><br/>\n<b>Apple TV</b><br/>\n<b>Android Devices (Phone / Tablet)</b><br/>\n<b>Android TV</b><br/><br/>\n<a href=\"https://www.redbox.com\">Redbox.com</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1772",
+              "Summary": "Channels / Content",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Free Live TV has dozens of channels that are free to watch 24/7. Some Movies and TV shows are only available for a limited time due to agreements with our programming providers, but there's always a chance they could become available again, so check back often.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "2500",
+              "Answer ID": "1773",
+              "Summary": "Commericials",
+              "Status": "Private",
+              "Product": "Free Live TV",
+              "Sub-Product": "About & Features",
+              "Answer": "Free Live TV is an ad-supported platform becuase that is how we are able to offer free streaming to our viewers.",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "Get Discounts": {
+    "sub_products": {
+      "Promo Codes": {
+        "answers": [
+          [
+            {
+              "Order": "3000",
+              "Answer ID": "1745",
+              "Summary": "Using promo codes",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "Use the following information to learn how to use your promo codes. Enjoy the show!<br/>\n<br/>\n<b>Using Promo Codes at the Box</b><br/>\n<br/>  \n1. Visit any Redbox location.<br/>\n2. Add a disc to your cart.<br/>\n3. Touch the PROMO CODE button on the checkout screen.<br/>\n4. Select the promo code to use or manually enter and Apply Promo.<br/>\n5. You’ll be asked to swipe your card to cover any additional days you hold your rental.<br/>\n<br/>\n<b>Using Promo Codes at Redbox.com or Redbox Mobile App</b><br/>\n<br/>  \n1. Visit <a href=\"https://www.redbox.com/\">https://www.redbox.com</a> or the app.<br/>\n2. Add a disc to your cart.<br/>\n3. Go to your cart and select Continue (you’ll be asked to log in or create an account).<br/>\n4. Select Appy Promo on the checkout screen. <br/>\n5. Select the promo code to use or manually enter and Apply Promo.<br/>\n6. Complete your reservation.<br/>\n7. Pick up your rental at the box.<br/>\n<br/>\n<b>Restrictions</b><br/>\n<br/>\n1. Promo codes only cover 1-night rentals.<br/>\n2. Promo codes can cover any format.<br/>\n3. Promo codes can only be applied to rentals, not purchases.<br/>\n4. A valid payment card is required to use promo codes; it is required in case extra night charges are incurred.<br/>\n<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "3000",
+              "Answer ID": "1746",
+              "Summary": "Getting promo codes",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "We have two ways that you can receive special offers from Redbox:<br/>\n<br/>\n<b>Joining Text Club</b><br/>\n<br/>\nThe Redbox Text Club is a group of customers who want great deals. If you're a member, you'll get special Redbox deals and freebies texted right to your phone – including a free promo code every month! There are two ways to join Text Club:<br/>\n<br/>\n1. Text the word SIGNUP to 727272.*<br/>\n2. Log into your Redbox profile (use web or mobile app), go to Settings - Promos/Offers - Redbox Text Club and enroll.*<br/>\n * The club is free to join, but message or data rate charges from your mobile carrier may apply.<br/>\n<br/>\n<b>Special Offers through Email</b><br/>\n<br/>\nRedbox periodically sends special offers to customers who have signed up to receive emails. You can sign up for this service at <a href=\"https://www.redbox.com/emails\">https://www.redbox.com/emails</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "3000",
+              "Answer ID": "1758",
+              "Summary": "Puerto Rican Residents",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "In order to purchase promotional codes or E-Gift cards, the purchaser must have a valid payment card with a mailing address located in one of the fifty U.S. States. Once purchased, the promotional code or E-Gift card can be used at any Box located in Puerto Rico.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Troubleshooting": {
+        "answers": [
+          [
+            {
+              "Order": "3000",
+              "Answer ID": "1754",
+              "Summary": "Lost Promo code",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "If you want to use a <i>promo</i> code, you’ll need to have it at the time you’re renting. Here's how:<br/>\n<br/><br/>\n<b>Using Promo Codes Attached to Your Online Profile</b><br/>\n<br/>\nWhen you're checking out at the Box, online or through the mobile app, choose Apply Promo and select the promo code you want to apply.<br/>\n<br/>\n<b>Using Promo Codes Sent via Email or SMS</b><br/>\n<br/>\nYou'll need to have the promo code when you are completing the transaction. During the checkout process, choose Apply Promo to manually enter the promo code.<br/>\n<br/><br/>\nIf you forgot your <i>promo</i> code, you might be able to cancel your reservation as long as it's still within the rental period and has yet to be picked up. Contact our Care team at 866-733-2693 or via chat at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> to learn your options.  Once cancelled, you can process the reservation again using the promo code as long as it is still available.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "3000",
+              "Answer ID": "1755",
+              "Summary": "Credit or debit card requirement",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "A <i>credit</i> card or <i>debit</i> card is <i>required</i> to rent movies, even if you are using a promo code / Redbox Perks. Your <i>credit</i> / <i>debit</i> card acts like a security deposit for your rental, and it’s on hand for daily charges if you want to hold on to your disc for more than one night.<br/>\n<br/>\nIf you used a promo code or Redbox Perks points to rent the disc, you may see a authorization hold that will drop off within 3-5 days.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "3000",
+              "Answer ID": "1756",
+              "Summary": "Promo code not working",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "We are sorry that you are having trouble. Here are a few reasons to consider:<br/> <br/> 1. You don't meet the promotional qualifications in your cart.<br/> For example, your promo code is for a Rent 1 / Get 1 Free.  You must have two qualifying products in your cart for this to apply.<br/> For example, your promo code is for $.75 off at a Walmart kiosk.  You must be renting at a kiosk located in a Walmart for this to apply.<br/> 2. The code has already expired.<br/> 3. The code has already been used.<br/> 4. The promotional code is being entered incorrectly.  <br/><br/>Please note that we don't use the number 0 in our codes, but rather the letter O.<br/> <br/> If none of these situations apply, contact our Customer Care Team for help at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.<br/>",
+              "Popular": "1"
+            },
+            {
+              "Order": "3000",
+              "Answer ID": "1757",
+              "Summary": "Promo code arrived late",
+              "Status": "Public",
+              "Product": "Get Discounts",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "We send out promo codes between 8 a.m. and 10 a.m. local time (based on the ZIP-code you gave us when you joined Text Club). If your code is coming too late, there may be an issue with your mobile device network connection. We recommend calling your mobile provider to find out what's happening.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "My Account": {
+    "sub_products": {
+      "Billing": {
+        "answers": [
+          [
+            {
+              "Order": "4000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1715",
+              "Summary": "Credit card security code (CVV)",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "You'll find the 3-digit <i>security</i> code on the back of your Discover, Visa, or Mastercard.  For American Express, the verification code is the 4 digits on the front of the card.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1722",
+              "Summary": "Refund policy",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "It’s Redbox policy not to refund charges that are older than 90 days. <br/> <br/> If you have any questions, please contact the Customer Care team by visiting <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1724",
+              "Summary": "Rentals lost or not returned",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "For each day you keep a rental, you'll be charged for another rental period + applicable tax.<br/>\n<br/>\nIf you hold onto your disc for the maximum rental period (in most areas, it's 17 days), you'll be charged the maximum charge and the disc is yours to keep.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1725",
+              "Summary": "Billing after reservation",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "We start the billing period once the reservation is confirmed.<br/>\n<br/>\nIt's important to pick up your rentals on the day you reserve them, you’ll be charged for that first night. For instance, if you reserve your movie online today, pick it up tomorrow, and return it the day after that, you’ll be charged for two nights. Your rentals will be held until 9 pm the day after you reserve them.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1727",
+              "Summary": "Pending charges",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "As soon as you <i>swipe</i> your card at the <i>box</i>, we'll authorize the transaction.  If you used Masterpass online while making your reservation, the authorization occurs when the reservation is submitted.<br/>\n<br/>\nThe authorization appears as a <i>pending charge</i> on your bank or credit-card statement. It covers your first rental day, and will turn into a charge as soon as you return the last disc you rented during that transaction.  For instance, if you rent two DVDs at $1.75 each, we'll hold $3.50 plus tax on your card until both discs are returned.  If you rented the two discs on Monday and return one on Tuesday and the other on Wednesday, you're billed for both of them on Wednesday.<br/>\n<br/>\nIf you used a promo code or Redbox Perks points to rent the disc, your authorization hold will drop off within 3-5 days.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1729",
+              "Summary": "Unexpected charges",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "Federal copyright laws prohibit copying or burning rented material.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1730",
+              "Summary": "Credit or debit card declined",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "We accept <i>credit</i> and <i>debit</i> cards from Visa, Mastercard, American Express and Discover. If you used an accepted form of payment, we suggest following up with your bank or <i>credit</i> card customer service center as soon as possible to figure out why your card was <i>declined</i>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1731",
+              "Summary": "Charged twice for rental or purchase",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "Multiple charges may be the result of an authorization hold, which financial institutions sometimes take 3-5 days to release. It may also be for a partial payment collection if we were unable to collect the full balance at one time. <br/>\n<br/>\n<b>For Rentals</b> - For any transaction involving a rental, you will see an immediate authorization for the one-night balance.  The authorization is released when the discs are returned, then you are charged for the amount due based on the nights out. The authorization is released immediately, however your financial institution may take 3-5 days to process this. If you still have concerns, please contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>\n<br/>\n<b>For Purchases</b> - If you were billed multiple times for a disc that was purchased, please contact our Customer Care team to review the details of the transaction. Contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>\n<br/>\n<b>For On Demand</b> - If you were billed multiple times for an On Demand Transaction (Rental or Purchase), please contact our Customer Care team to review the details of the transaction. When using On Demand, be careful to complete the transaction only one time and not select Submit multiple times. Visit Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1760",
+              "Summary": "Points availability",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Billing",
+              "Answer": "After each transaction at the Box, your receipt will show the estimated points you've earned. After you return your rental and make a successful payment, your points will be added within 24-48 hours.<br/>\n<br/>\nFor On Demand, points move faster - and they'll be ready right after you make a successful payment. You can visit <a href=\"https://www.redbox.com/myperks\">https://www.redbox.com/myperks</a> to get a closer look at your points balance and earning history.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Access / Features": {
+        "answers": [
+          [
+            {
+              "Order": "4000",
+              "Answer ID": "1703",
+              "Summary": "Viewing transaction history",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "You can view the last 3 months of your transaction history after you've established an online profile with us. Transactions may take up to 48 hours to show up and will display for 90 days.<br/>\n<br/>\nTo view your trasaction history:<br/>\n<br/>\n<b>Web</b>\n<br/><br/> \n1. Visit <a href=\"https://www.redbox.com/Account\">https://www.redbox.com/Account</a> and login<br/>\n2. Select the Transaction History tab to view your financial transactions.<br/>\n3. You can check your rental history at <a href=\"https://www.redbox.com/Account/RentalHistory\">https://www.redbox.com/Account/RentalHistory</a>.<br/>\n<br/>\n<b>Mobile App</b><br/>\n<br/>  \n1. Launch the mobile app and login<br/>\n2. Click on My Redbox<br/>\n3. Click on the Person icon in the upper-left corner<br/>\n4. Click on Transaction History<br/>\n<br/>\nIf you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/chat</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1711",
+              "Summary": "My account",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "To view or make changes to your account, go to <a href=\"https://www.redbox.com/account\">https://www.redbox.com/account</a> and login, or use the Redbox mobile app. Within My Account, these are the things you can do:<br/>\n<br/>\n<b>Account Features</b><br/>\n<br/>\n1. <i>Account profile</i> - includes attributes such as your birthday for rewards, your email address and password, and your payment methods<br/>\n2. <i>On Demand</i> - device registrations and all of your notification preferences<br/>\n3. <i>Transaction History</i> - for the last 90 days<br/>\n<br/>\n<b>Changing Account Information</b><br/>\n<br/>\nOnce logged in to your account, simply go to <i>My Account</i> - <i>Settings</i> in your web browser or go to My Redbox and tap the person icon at the top of your mobile app. From there you can modify the following information.<br/><br/>\n1. <i>Profile</i> - username, first &amp; last name, address, and birthday<br/>\n2. <i>Sign In</i> - email address and password<br/>\n3. <i>Payment Methods</i> - credit card information<br/>\n4. <i>Promos & Offers</i> - marketing preferences such as text club and emails.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1718",
+              "Summary": "Forgotten password",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "If you've forgotten your password, or entered your password incorrectly 5-consecutive times initiating a 30-minute account lockout, you can reset the password. (If you entered your email address at a Redbox location and didn't set up an account through Redbox.com, you'll need to create a new account. You can create an account at <a href=\"https://www.redbox.com/account\">https://www.redbox.com/account</a>.)<br/> <br/> <b>Web Browser Password Reset</b><br/> <br/> 1. You can visit the Redbox <a href=\"https://www.redbox.com/register/reset?returnUrl=%2faccount\"><b>Forgot Password</b></a> page to request a temporary password. (The temporary password is valid for four hours.)<br/> 2. Once you have your temporary password, you can login.<br/> 3. The system will ask you change your temporary password immediately.*<br/> <br/>   <b>Mobile App Password Reset</b><br/> <br/> 1. Select Forgot Password from the Redbox Sign In page.<br/> 2. Enter your email address and select Send Password.<br/> 3. Once you have your temporary password, you can login.<br/> 4. The system will ask you change your temporary password immediately.*<br/> <br/><br/> <b>*Passwords must contain:</b><br/> <br/> * 8 characters<br/> * a number<br/> * a lowercase letter<br/> * an uppercase letter<br/> * a special character (for example, @$%*#?&amp;)<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1719",
+              "Summary": "Unsubscribing from emails",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "To <i>unsubscribe</i> from our <i>email</i> list, click on the <i>Unsubscribe</i> link near the end of the <i>email</i>. This will <i>unsubscribe</i> you from newsletters. If you provide your <i>email</i> address during checkout, you'll still receive rental receipts.<br/>\n<br/>\nAdditional methods to unsubscribe from emails:<br/>\n<br/>\n1. <b>Online</b> - Login to <a href=\"https://www.redbox.com/\">https://www.redbox.com</a> and go to My Account - Settings, from here you can update your email notification preferences under Promos & Offers.<br/>\n<br/>\n2. <b>Mobile app</b> -  Go to My Account - Promos &amp; Offers and update your email notification preferences.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1744",
+              "Summary": "Deleting a card",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "You can easily remove a payment card from your account. Follow the steps below depending on the type of device you're using:<br/>\n<br/>\n<b>Deleting a Payment Card from the Web</b><br/>\n<br/>\n1. Login to your account by visiting <a href=\"https://www.redbox.com/account\">https://www.redbox.com/account</a>.<br/>\n2. Access My Accounts - Settings.<br/>\n3. Scroll  to find Payment Methods. <br/>\n4. Select the Edit or the pencil icon for the payment card.<br/>\n5. Select Remove.<br/>\n<br/>   \n<b>Deleting a Payment Card from the Mobile App</b><br/>\n<br/>\n1. Access the Redbox App.<br/>\n2. Select My Redbox.<br/>\n3. Select the Person icon in the upper left-hand corner.<br/>\n4. Select Payment Method.<br/>\n5. Select the card to remove.<br/>\n6. Select Remove \n<br/>\n<br/>\n<b>Deleting an E-Gift Card</b><br/>\n<br/>\nE-Gift Cards can't be deleted from <a href=\"https://www.redbox.com\">https://www.redbox.com</a> accounts.<br/>\n<br/>  \nIf you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1747",
+              "Summary": "Perks program",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "Redbox Perks is our loyalty program. It's a fun and rewarding way to score free rentals and perks from Redbox. To sign-up, visit <a href=\"https://www.redbox.com/redboxperks/\">https://www.redbox.com/redboxperks</a>. Here's how the program works:<br/>\n<br/>\n<b>Earning Points</b><br/>\n<br/>\nMembers can earn points in the program by completing qualifying activities such as renting a movie or celebrating a birthday. For more information on earning points, visit <a href=\"https://www.redbox.com/redboxperks/terms\">https://www.redbox.com/redboxperks/terms</a><br/>\n<br/>\n<br/>\n<b>Badges</b><br/>\n<br/>\nTake on fun challenges and earn serious bragging rights. Visit <a href=\"https://www.redbox.com/account/perksinfo#perksbadges\">https://www.redbox.com/account/perksinfo#perksbadges</a> to learn more about earning Badges within the Perks program.<br/>\n<br/>\n<br/>\n<b>Redeeming Points</b><br/>\n<br/>\nYou can start redeeming free stuff as soon as you have at least 1,500 points.<br/>\n<br/>\n1. To redeem your points at the Box, just sign in to Redbox Perks and select the Use Points button.<br/>\n2. You can also go to <a href=\"https://www.redbox.com/\">https://www.redbox.com</a>, or the mobile app, to use points to make an online reservation. <br/>\n<br/>\n<br/>\n<b>Checking your Status Level</b><br/><br/>\nThe Program offers four levels of status: Perks, Star, Superstar, and Legend. For more information on these levels, visit <a href=\"https://www.redbox.com/redboxperks/terms\">https://www.redbox.com/redboxperks/terms</a>.<br/>\n<br/>\nYour status level is determined by the amount of discs rented, purchased etc.  For example, if you have 3 discs in one transaction, your counter will increase by 3 toward the next status level. <br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1761",
+              "Summary": "Points expiration",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "In the Perks program, your points will expire 12 months from the date of earning them. The 12-month time period will begin on the date you completed the transaction (not the date the points appear in your account).<br/>\n<br/>\nOn another note, all of your points will expire after 6 months of account inactivity.<br/>\n<br/>\nHere are some ways to make sure you stay active:<br/>\n<br/>\n1. Rent a DVD, Blu-Ray or 4K UHD Disc.<br/>\n2. Purchase a movie  at the Box<br/>\n3.  Make an On Demand transaction<br/>\n<br/>\nYou can go to <a href=\"https://www.redbox.com/myperks\">https://www.redbox.com/myperks</a> to get a closer look at your points balance and earning history.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1762",
+              "Summary": "Qualifying transactions",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "That's easy - here's a look at our qualifying transactions within the Perks program:<br/>\n<br/>\n1. Rent a DVD, Blu-Ray or 4K UHD Disc.  <br/>\n2.  Purchase a movie at the Box<br/>\n3.  Make an On Demand transaction<br/>\n<br/>\nThese qualifying transactions are only complete once you make a successful payment (if applicable).  Each disc is counted separately toward your status levels even thought they may be part of the same transaction. For example, you rent 2 discs under one transaction, your counter will increase by 2.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1763",
+              "Summary": "Levels and leveling up",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "In the Perks program, once you reach a level, you'll be in it for the remainder of that year - plus the next year! For example, if you become a Superstar in March of this year, you'll be at least a Superstar for the rest of this year and all of next year. If you keep renting and purchasing enought to mecome a Legend during this time, you'll level up and be a Legend for the rest of that year and the next. Visit <a href=\"https://www.redbox.com/perks/\">https://www.redbox.com/perks</a> and scroll down the page to learn more about the different levels in the program.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "4000",
+              "Answer ID": "1764",
+              "Summary": "Earning Badges",
+              "Status": "Public",
+              "Product": "My Account",
+              "Sub-Product": "Access / Features",
+              "Answer": "Badges are part of the Perks program that can be earned for any activity. Badges are awesome to earn on their own, but Superstars and Legends also get points per earned badge.<br/>\n<br/>\n1. Superstars: 50 points per badge<br/>\n2. Legends: 100 points per badge<br/>\n<br/>\nVisit <a href=\"https://www.redbox.com/perks/\">https://www.redbox.com/perks</a> and scroll to the More Ways To Earn section to learn more about Badges.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "Troubleshooting": {
+    "sub_products": {
+      "Disc": {
+        "answers": [
+          [
+            {
+              "Order": "5000",
+              "Answer ID": "1672",
+              "Summary": "Enabling closed captioning",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Disc",
+              "Answer": "Most of our movies have closed <i>captioning</i> or SDH subtitles (a newer form of closed captioning). To use <i>Closed Captioning</i>, it must be <i>enabled</i> on your device. Here's how:<br/> <br/> <b>At the Box</b><br/> <br/> 1. The title details page will indicate either closed captioning or SDH.<br/> 2. We recommend renting a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> disc that has SDH.<br/> *Please note that Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> discs only play in Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> players.<br/> <br/> <br/> <b>On Demand</b><br/> <br/>   1. All On Demand titles have SDH functionality.<br/>   2. This feature is controlled through the player menu.<br/>   <br/>   If you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1673",
+              "Summary": "Disc does not play",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Disc",
+              "Answer": "There are a few reasons why your <i>disc</i> might not <i>play</i>. The list below offers a few remedies.<br/> <br/> 1. Clean the disc by wiping the disc from the center outwards using a soft cloth (no paper towels).  Clean the disc with a solution of water and mild detergent or rubbing alcohol.  Never use abrasives, solvents, or highly acidic cleansers.<br/> 2. Ensure that you are playing the correct disc in the correct player with compatible accessories. (For example, playing a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> disc in a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> player with compatabile Blue-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> accessories or playing 4K UHD in a 4K UHD player.)<br/> 3. Try another disc in the player to verify that the player is not the source of the problem.<br/> <br/> If the <i>disc</i> still doesn’t <i>play</i> properly, you can report this thorugh our IVR at 1-866-733-2693 (Option 1) by entering the barcode and your payment information. Return the disc to our Box (before or after reporting this) to prevent additional nightly rental charges.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1678",
+              "Summary": "Watch button isn't available",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Disc",
+              "Answer": "If the Watch button isn't available, check to make sure your rental hasn’t expired. The time left in your rental period is listed on the movie or TV show's detail page. If it hasn’t expired, try the following:<br/> <br/>   <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps)..<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1705",
+              "Summary": "Closed captioning issues",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Disc",
+              "Answer": "If you're having trouble with <i>closed captioning</i>, it may be because you have a newer TV or player, and the <i>closed captioning</i> signal is analog. Newer HDTV sets, Blu-Ray™ and DVD players use an HDMI connection. HDMI won't play the analog closed captioning on some DVDs. HDMI will play SDH, a newer form of <i>closed captioning</i>. If you rent a disc with SDH subtitles, your remote's CC button might not play them, but you can enable them from the disc menu. <br/>\n<br/>\nFor help with activating <i>closed captioning</i>, refer to the table below:<br/>\n<br/>\n<b>Mobile Device App</b><br/>\n<br/>\n1. Tap the Audio &amp; Subtitles icon in the bottom right of the player screen.<br/>\n2. Choose closed captioning.<br/>\n<br/>   \n<b>Computer/Laptop</b><br/>\n<br/>\n1. Select the Settings icon in the bottom right of the player (it is shaped like a gear). <br/>\n2. Turn on closed captioning.<br/>\n<br/>\n<b>Roku, Smart TV, or similar device</b><br/>\n<br/>\n1. Use the device or player controls to turn on closed captioning.<br/>\n<br/>\n<b>Disc in Video Player</b><br/>\n<br/>\n1. Go to the TV menu to turn on closed captioning.<br/>\n<br/>\n<br/>\nIf that doesn’t solve the problem, contact our Customer Care Team <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "On Demand": {
+        "answers": [
+          [
+            {
+              "Order": "5000",
+              "Answer ID": "1672",
+              "Summary": "Enabling closed captioning",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Most of our movies have closed <i>captioning</i> or SDH subtitles (a newer form of closed captioning). To use <i>Closed Captioning</i>, it must be <i>enabled</i> on your device. Here's how:<br/> <br/> <b>At the Box</b><br/> <br/> 1. The title details page will indicate either closed captioning or SDH.<br/> 2. We recommend renting a Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> disc that has SDH.<br/> *Please note that Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> discs only play in Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> players.<br/> <br/> <br/> <b>On Demand</b><br/> <br/>   1. All On Demand titles have SDH functionality.<br/>   2. This feature is controlled through the player menu.<br/>   <br/>   If you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1677",
+              "Summary": "Skipping or buffering",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox on Demand is designed to play the highest quality video that can be delivered over your internet connection. The following table provides general troubleshooting for common video performance issues such as buffering:<br/>\n<br/>  \n<b>Mobile Device (Phone/Tablet)</b><br/>\n<br/>\n1. Verify your mobile device has all necessary software upgrades.<br/>\n2. Verify that you are on the current version of the application.<br/>\n3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/>\n4. Close the mobile app and try again.<br/>\n5. Power cycle the device.<br/>\n<br/>\n<b>Web Browser</b><br/>\n<br/>\n1. Verify that your computer has all available software upgrades.<br/>\n2. Verify that you are on the current version of the browser (or a supported version).<br/>\n3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps)..<br/>\n4. Close the browser and try again.<br/>\n5. Restart your computer.<br/>\n<br/>\nIf this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "1"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1679",
+              "Summary": "Audio issues",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Use the following troubleshooting steps to address audio performance issues:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Make sure the volume is turned up, both on your device and your Redbox Video Player.<br/> 2. Try the sound on another device. If it works, the stream is fine and the issue is related to the device.<br/> 3. Try playing another title.<br/> <br/>    <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1681",
+              "Summary": "Missing Redbox channel on Roku",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If you can't find the Redbox <i>channel</i> on <i>Roku</i>, make sure your system is updated by following these simple steps:<br/>\n<br/>\n1. From settings, select <i>System</i>.<br/>\n2. Select <i>System Update</i>.<br/>\n3. Select <i>Check Now</i>.<br/>\n<br/>\n<br/>\nIf this doesn't fix the issue, contact <i>Roku</i> for support at <a href=\"https://support.roku.com/article/208756388-how-do-i-add-channels-to-my-roku-streaming-device-\">https://support.roku.com/article/208756388-how-do-i-add-channels-to-my-roku-streaming-device-</a>.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1682",
+              "Summary": "Viewing rentals and purchases in My Library",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Rented and purchased titles are located in <a href=\"https://www.redbox.com/library\">https://www.redbox.com/library</a>. Rentals are automatically removed from your library when they expire.<br/>\n<br/>\nTo see titles currently in your library:<br/>\n<br/>\n<b>Online</b><br/>\n<br/>\nTitles are located in <a href=\"https://www.redbox.com/library\">https://www.redbox.com/library</a><br/>\n<br/><br/> \n<b>Mobile App</b><br/><br/>\n1. Click on <i>My Redbox</i><br/>\n2. Select the <i>Library</i> tab<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1683",
+              "Summary": "Color or contrast",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Your device has a brightness level that you can adjust to your preferences. If the problem continues, visit the Help Center for your device or contact the manufacturer for assistance. We've provided a few helpful links below.<br/>\n<br/>\n<b>Apple TV</b> - <a href=\"https://support.apple.com/apple-tv\">https://support.apple.com/apple-tv</a><br/>\n<b>Samsung TV</b> - <a href=\"https://www.samsung.com/us/support/televisions-home-theater/tvs\">https://www.samsung.com/us/support/televisions-home-theater/tvs</a><br/>\n<b>LG TV</b> - <a href=\"https://www.lg.com/us/support/tvs\">https://www.lg.com/us/support/tvs</a><br/>\n<b>Vizio TV</b> - <a href=\"https://support.vizio.com/s/?language=en_US\">https://support.vizio.com/s/?language=en_US</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1684",
+              "Summary": "Crashing browser or app",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "This is typically a device-specific issue. Use the table below to help with general troubleshooting:<br/>\n<br/>\n<b>Mobile Device (Phone/Tablet)</b><br/>\n<br/>\n1. Verify your mobile device has all necessary software upgrades.<br/>\n2. Verify that you are on the current version of the application.<br/>\n3. Close the mobile app and try again.<br/>\n4. Power cycle the device.<br/>\n<br/>\n<b>Web Browser</b><br/>\n<br/>\n1. Verify that your computer has all available software upgrades.<br/>\n2. Verify that you are on the current version of the browser (or a supported version).<br/>\n3. Close the browser and try again.<br/>\n4. Restart your computer.<br/>\n<br/>\n<b>Roku or Smart TV</b><br/>\n<br/>\n1. Check for available software and firmware upgrades.<br/>\n2. Restart the device.<br/>\n3. Re-launch the application.<br/>\n<br/>\nIf this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1685",
+              "Summary": "Disconnects while streaming",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand is designed to play the highest quality video that can be delivered to your device. Use the following general troubleshooting steps for interruptions in the video stream:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1686",
+              "Summary": "Download completion error",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Downloading the title is only for offline viewing and you cannot select the location to download it to your device. The download will remain within the Redbox application. Below are some common solutions for download completion errors:  <br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1687",
+              "Summary": "Launching the Redbox App",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If your Redbox app isn't launching, try the following:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify that your mobile device is up to date with software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Close the mobile app and try again.<br/> 4. Power cycle the device.<br/> <br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer is up to date with any available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Close the browser and try again.<br/> 4. Restart your computer.<br/> <br/> <br/> <b>Roku or Smart TV</b><br/> <br/> 1. Check for available software and firmware upgrades.<br/> 2. Restart the device.<br/> 3. Re-launch the application.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1688",
+              "Summary": "Picture and sound synchronization",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Use the following troubleshooting steps for issues related to picture and sound synchronization:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Try the video on another device. If it works, the stream is fine and the issue is related to the device.<br/> 2. Try playing another title.<br/> <br/>   <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b>   <br/> <br/>   1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1689",
+              "Summary": "Poor visual quality",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Redbox On Demand is designed to play the highest quality video that can be delivered to your device over your internet connection. If you are experiencing low-quality video or rebuffering, use the these common troubleshooting tips below:<br/>\n<br/>\n<b>Mobile Device (Phone/Tablet)</b><br/>\n<br/>\n1. Verify your mobile device has all necessary software upgrades.<br/>\n2. Verify that you are on the current version of the application.<br/>\n3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/>\n4. Close the mobile app and try again.<br/>\n5. Power cycle the device.<br/>\n<br/>\n<b>Web Browser</b>  \n<br/><br/>  \n1. Verify that your computer has all available software upgrades.<br/>\n2. Verify that you are on the current version of the browser (or a supported version).<br/>\n3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/>\n4. Close the browser and try again.<br/>\n5. Restart your computer.<br/>\n<br/>\nIf this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1690",
+              "Summary": "Removing a device from my account",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "You can remove a device from your account by following the steps below:<br/> <br/> <b>Mobile Device App</b><br/> <br/> 1. Select My Redbox.<br/> 2. Select the account icon at the top of the screen.<br/> 3. Select On Demand Settings. <br/> 4. Scroll to Manage Registered Devices.<br/> 5. Select the device you wish to remove.<br/> 6. Review the confirmation message and select Remove.<br/> <br/> <b>Computer/Laptop</b><br/> <br/> 1. Visit <a href=\"https://www.redbox.com\">https://www.redbox.com</a>.<br/> 2. Sign in with your email and password.<br/> 3. Select Settings.<br/> 4. Scroll down to On Demand Settings - Manage Registered Devices.<br/> 5. Select Edit next to the device that you would like to remove.<br/> 6. Select \"Remove.\"<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1691",
+              "Summary": "Video not playing in HD",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Some devices do not support HD playback and will play the SD version of the video by default. Check your device compatibility to ensure that it’s capable of streaming HD videos before renting or purchasing the HD version of a movie or TV show. For general troubleshooting tips, refer to the following table:<br/> <br/>    <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Close the mobile app and try again.<br/> 4. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Close the browser and try again.<br/> 4. Restart your computer.<br/> <br/> <b>Roku or Smart TV</b><br/> <br/> 1. Check for available software and firmware upgrades.<br/> 2. Restart the device.<br/> 3. Re-launch the application.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1692",
+              "Summary": "Silverlight plugin",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Make sure Silverlight is enabled, and you have the latest version installed. You can confirm that it is enabled in the browser settings. If Silverlight is enabled, but you continue to get notified that it is not installed, try uninstalling and reinstalling the application. Download Silverlight at <a href=\"https://www.microsoft.com/silverlight/\">https://www.microsoft.com/silverlight</a>.<br/><br/> If this doecontact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1693",
+              "Summary": "Slow download speed",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If your download is progressing at a very slow rate, use the troubleshooting tips below:<br/> <br/>    <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <br/> <b>Web Browser</b> <br/><br/>   1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1694",
+              "Summary": "Visual display",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If your video doesn't fill your entire screen, check to see if you’re in Full Screen mode. In the video player, the Full Screen icon is the right-most icon in the bottom right, next to the gear icon. Clicking it should expand the video player to fill your entire screen.<br/> <br/> If that doesn’t solve the problem, contact our Customer Care Team <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1695",
+              "Summary": "Wrong movie is streaming",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If the wrong movie or TV show is streaming, exit the stream and go back to My Library to make sure you selected the right movie or TV show.<br/>\n<br/>\nIf this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://www.redbox.culp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1696",
+              "Summary": "Installing and launching",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "To install and launch On Demand on your device, visit <a href=\"https://www.redbox.com/howitworks\">https://www.redbox.com/howitworks</a> and scroll down to the Setting Up Your Device section. Select the device you want to use and instructions will appear just below it.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1705",
+              "Summary": "Closed captioning issues",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If you're having trouble with <i>closed captioning</i>, it may be because you have a newer TV or player, and the <i>closed captioning</i> signal is analog. Newer HDTV sets, Blu-Ray™ and DVD players use an HDMI connection. HDMI won't play the analog closed captioning on some DVDs. HDMI will play SDH, a newer form of <i>closed captioning</i>. If you rent a disc with SDH subtitles, your remote's CC button might not play them, but you can enable them from the disc menu. <br/> <br/> For help with activating <i>closed captioning</i>, refer to the table below:<br/> <br/> <b>Mobile Device App</b><br/> <br/> 1. Tap the Audio &amp; Subtitles icon in the bottom right of the player screen.<br/> 2. Choose closed captioning.<br/> <br/>    <b>Computer/Laptop</b><br/> <br/> 1. Select the Settings icon in the bottom right of the player (it is shaped like a gear). <br/> 2. Turn on closed captioning.<br/> <br/> <b>Roku, Smart TV, or similar device</b><br/> <br/> 1. Use the device or player controls to turn on closed captioning.<br/> <br/> <b>Disc in Video Player</b><br/> <br/> 1. Go to the TV menu to turn on closed captioning.<br/> <br/> <br/> If that doesn’t solve the problem, contact our Customer Care Team <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1708",
+              "Summary": "Using AirPlay",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "Using your iPhone, iPad, or iPod Touch, you can AirPlay Redbox On Demand movies and TV shows right to your Apple TV.<br/>\n<br/>\n<b>To enable this service, do the following:</b><br/>\n<br/>\n1. Make sure your iPhone, iPad, or iPod Touch is connected to the same wireless network as your Apple TV. <br/>\n2. Open the Redbox app, and go to your Library found in <a href=\"https://www.redbox.com/library\">https://www.redbox.com/library</a> to find the title you want to AirPlay.<br/>\n3. Start playback by tapping the AirPlay icon and selecting your AirPlay device.<br/>\n<br/>\nMore information on AirPlay is available through <a href=\"https://support.apple.com/en-us/HT204289\">https://support.apple.com/en-us/HT204289</a>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1713",
+              "Summary": "Streaming on multiple devices",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "If you own the movie or TV show, you can stream on up to five devices simultaneously. If you’ve rented it, you can only stream on one device at a time.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1714",
+              "Summary": "Supported devices and requirements",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "You can register up to five supported devices. The table below lists all supported devices.<br/> <br/> <b>Supported Devices</b><br/><br/> 1. LG, Samsung, and VIZIO SmartCast Smart TV<br/> 2. Windows or Mac computer<br/> 3. Android or iOS mobile or tablet<br/> 4. Roku<br/> 5. TV via Chromecast<br/> 6. Apple TV<br/> <br/>   <br/> <b>Compatable Web Browsers</b><br/><br/> 1. Google Chrome<br/> 2. Firefox<br/> 3. Internet Explorer*<br/> 4. Edge<br/> 5. Safari<br/> <br/><br/> <b>Recommended Internet Speed</b><br/><br/> 3.0 megabits per second (Mbps)<br/> <br/><br/> <b>Silverlight Plugin Required for:</b><br/><br/> 1. IE 11<br/> 2. Windows 7<br/> 3. Windows 8.1<br/> 4. Mac OS older than 10.12 (Sierra)<br/> <br/> Download it here: <a href=\"https://www.microsoft.com/silverlight/\">https://www.microsoft.com/silverlight/</a><br/> <br/><br/> For more information on our supported devices, go to <a href=\"https://www.redbox.com/ondemand-howitworks\">https://www.redbox.com/ondemand-howitworks</a>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1717",
+              "Summary": "Using Chromecast",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "On Demand",
+              "Answer": "For more information on using Chromecast, refer to the table below:<br/>\n<br/>\n<b>Chromecasting Redbox On Demand from an Android or iOS device?</b><br/><br/>\n1. Your Android, iOS smartphone or tablet must be on the same wireless network as your Chromecast device. <br/>\n2. On your smartphone or tablet, open the Redbox app, go to your Redbox Library, and find the title you want to Chromecast. <br/>\n3. On the title details page, select the Chromecast icon and choose the Chromecast device you want to use to view the content. <br/>\n4. Once connected, simply start playback of the title.<br/>\n<br/>\n<b>Chromecasting Redbox On Demand from a Computer</b><br/><br/>\n1. Your laptop or desktop computer must be on the same wireless network as your Chromecast device.<br/>\n2. From your Chrome browser, access <a href=\"https://redbox.com\">Redbox.com</a><br/>\n3. Visit My Library, go to the title you want to Chromecast, initiate playback, select the Chromecast icon displayed in the player and choose the Chromecast device you want to use.<br/>\n4. The Chromecast icon on your browser will turn blue if the cast is active.<br/>\n5. To stop the cast, click the Chromecast icon and select Stop.<br/>\n<br/>\nIf you need more information on Chromecast, its available through <a href=\"https://support.google.com/chromecast/answer/3228332?hl=en&amp;ref_topic=4602553\">Chromecast Support</a>.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Free Live TV": {
+        "answers": [
+          [
+            {
+              "Order": "5000",
+              "Answer ID": "1679",
+              "Summary": "Audio issues",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "Use the following troubleshooting steps to address audio performance issues:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Make sure the volume is turned up, both on your device and your Redbox Video Player.<br/> 2. Try the sound on another device. If it works, the stream is fine and the issue is related to the device.<br/> 3. Try playing another title.<br/> <br/>    <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1683",
+              "Summary": "Color or contrast",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "Your device has a brightness level that you can adjust to your preferences. If the problem continues, visit the Help Center for your device or contact the manufacturer for assistance. We've provided a few helpful links below.<br/>\n<br/>\n<b>Apple TV</b> - <a href=\"https://support.apple.com/apple-tv\">https://support.apple.com/apple-tv</a><br/>\n<b>Samsung TV</b> - <a href=\"https://www.samsung.com/us/support/televisions-home-theater/tvs\">https://www.samsung.com/us/support/televisions-home-theater/tvs</a><br/>\n<b>LG TV</b> - <a href=\"https://www.lg.com/us/support/tvs\">https://www.lg.com/us/support/tvs</a><br/>\n<b>Vizio TV</b> - <a href=\"https://support.vizio.com/s/?language=en_US\">https://support.vizio.com/s/?language=en_US</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1688",
+              "Summary": "Picture and sound synchronization",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "Use the following troubleshooting steps for issues related to picture and sound synchronization:<br/> <br/> <b>General Troubleshooting Tips</b><br/> <br/> 1. Try the video on another device. If it works, the stream is fine and the issue is related to the device.<br/> 2. Try playing another title.<br/> <br/>   <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all necessary software upgrades.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b>   <br/> <br/>   1. Verify that your computer has all available software upgrades.<br/> 2. Verify that you are on the current version of the browser (or a supported version).<br/> 3. Verify your data/Wi-Fi connection is strong enough. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1694",
+              "Summary": "Visual display",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "If your video doesn't fill your entire screen, check to see if you’re in Full Screen mode. In the video player, the Full Screen icon is the right-most icon in the bottom right, next to the gear icon. Clicking it should expand the video player to fill your entire screen.<br/> <br/> If that doesn’t solve the problem, contact our Customer Care Team <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1765",
+              "Summary": "Buffering",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "The following table provides general troubleshooting for common video performance issues such as buffering:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all the available software updates.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify your computer has all the available software updates.<br/> 2. Verify you are using a supported web browser.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps) <br/> 4. Close your browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1766",
+              "Summary": "Channel / Stream Stops Playing",
+              "Status": "Private",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "Use the following general troubleshooting steps for interruptions in the video stream:<br/> <br/> <b>Mobile Device (Phone/Tablet)</b><br/> <br/> 1. Verify your mobile device has all the available software updates.<br/> 2. Verify that you are on the current version of the application.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps).<br/> 4. Close the mobile app and try again.<br/> 5. Power cycle the device.<br/> <br/> <b>Web Browser</b><br/> <br/> 1. Verify your computer has all the available software updates.<br/> 2. Verify you are using a supported web browser.<br/> 3. Check your data/Wi-Fi connection for both upload and download speeds. We recommend a minimum of 3.0 megabits per second (Mbps) <br/> 4. Close your browser and try again.<br/> 5. Restart your computer.<br/> <br/> If this doesn't solve the problem, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1767",
+              "Summary": "Ad Blockers",
+              "Status": "Private",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Free Live TV",
+              "Answer": "Free Live TV may experience playback issues if you have ad blockers enabled. You will get a message within the player to disable the ad blocker to continue viewing content.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Billing": {
+        "answers": [
+          [
+            {
+              "Order": "5000",
+              "Answer ID": "1715",
+              "Summary": "Credit card security code (CVV)",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Billing",
+              "Answer": "You'll find the 3-digit <i>security</i> code on the back of your Discover, Visa, or Mastercard.  For American Express, the verification code is the 4 digits on the front of the card.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1731",
+              "Summary": "Charged twice for rental or purchase",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Billing",
+              "Answer": "Multiple charges may be the result of an authorization hold, which financial institutions sometimes take 3-5 days to release. It may also be for a partial payment collection if we were unable to collect the full balance at one time. <br/> <br/> <b>For Rentals</b> - For any transaction involving a rental, you will see an immediate authorization for the one-night balance.  The authorization is released when the discs are returned, then you are charged for the amount due based on the nights out. The authorization is released immediately, however your financial institution may take 3-5 days to process this. If you still have concerns, please contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For Purchases</b> - If you were billed multiple times for a disc that was purchased, please contact our Customer Care team to review the details of the transaction. Contact Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/> <br/> <b>For On Demand</b> - If you were billed multiple times for an On Demand Transaction (Rental or Purchase), please contact our Customer Care team to review the details of the transaction. When using On Demand, be careful to complete the transaction only one time and not select Submit multiple times. Visit Customer Care at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1732",
+              "Summary": "Unknown charges",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Billing",
+              "Answer": "Redbox will attempt to collect the full balance due upon return of the disc or at the end of the maximum rental period. If we are unable to collect the full balance due, you may see partial amounts reflected on your email receipt (if the email address was provided during checkout) or reflected within your online account.<br/>\n<br/>\n<b>Viewing Recent Transactions - Redbox Online Account</b><br/>\n<br/>\n1. Login to your online account at <a href=\"https://www.redbox.com/\">https://www.redbox.com</a>.<br/>\n2. View your transaction history.<br/>\n3. See if any recent transactions have outstanding balances or recently collected balances<br/>\n<br/>\n<b>No Online Account - Email Not Provided at Checkout</b><br/>\n<br/>\nContact us and we can review the transaction information with you. You can reach us at <b>1-866-REDBOX3</b>.<br/>\n<br/>\n<br/>\nIf you still have questions regarding your payment history, contact us at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1760",
+              "Summary": "Points availability",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "Billing",
+              "Answer": "After each transaction at the Box, your receipt will show the estimated points you've earned. After you return your rental and make a successful payment, your points will be added within 24-48 hours.<br/>\n<br/>\nFor On Demand, points move faster - and they'll be ready right after you make a successful payment. You can visit <a href=\"https://www.redbox.com/myperks\">https://www.redbox.com/myperks</a> to get a closer look at your points balance and earning history.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "My Account": {
+        "answers": [
+          [
+            {
+              "Order": "5000",
+              "Answer ID": "1744",
+              "Summary": "Deleting a card",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "My Account",
+              "Answer": "You can easily remove a payment card from your account. Follow the steps below depending on the type of device you're using:<br/> <br/> <b>Deleting a Payment Card from the Web</b><br/> <br/> 1. Login to your account by visiting <a href=\"https://www.redbox.com/account\">https://www.redbox.com/account</a>.<br/> 2. Access My Accounts - Settings.<br/> 3. Scroll  to find Payment Methods. <br/> 4. Select the Edit or the pencil icon for the payment card.<br/> 5. Select Remove.<br/> <br/>    <b>Deleting a Payment Card from the Mobile App</b><br/> <br/> 1. Access the Redbox App.<br/> 2. Select My Redbox.<br/> 3. Select the Person icon in the upper left-hand corner.<br/> 4. Select Payment Method.<br/> 5. Select the card to remove.<br/> 6. Select Remove  <br/> <br/> <b>Deleting an E-Gift Card</b><br/> <br/> E-Gift Cards can't be deleted from <a href=\"https://www.redbox.com\">https://www.redbox.com</a> accounts.<br/> <br/>   If you need additional help, contact our Customer Care Team at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> so we can help.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1761",
+              "Summary": "Points expiration",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "My Account",
+              "Answer": "In the Perks program, your points will expire 12 months from the date of earning them. The 12-month time period will begin on the date you completed the transaction (not the date the points appear in your account).<br/>\n<br/>\nOn another note, all of your points will expire after 6 months of account inactivity.<br/>\n<br/>\nHere are some ways to make sure you stay active:<br/>\n<br/>\n1. Rent a DVD, Blu-Ray or 4K UHD Disc.<br/>\n2. Purchase a movie  at the Box<br/>\n3.  Make an On Demand transaction<br/>\n<br/>\nYou can go to <a href=\"https://www.redbox.com/myperks\">https://www.redbox.com/myperks</a> to get a closer look at your points balance and earning history.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1762",
+              "Summary": "Qualifying transactions",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "My Account",
+              "Answer": "That's easy - here's a look at our qualifying transactions within the Perks program:<br/>\n<br/>\n1. Rent a DVD, Blu-Ray or 4K UHD Disc.  <br/>\n2.  Purchase a movie at the Box<br/>\n3.  Make an On Demand transaction<br/>\n<br/>\nThese qualifying transactions are only complete once you make a successful payment (if applicable).  Each disc is counted separately toward your status levels even thought they may be part of the same transaction. For example, you rent 2 discs under one transaction, your counter will increase by 2.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1763",
+              "Summary": "Levels and leveling up",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "My Account",
+              "Answer": "In the Perks program, once you reach a level, you'll be in it for the remainder of that year - plus the next year! For example, if you become a Superstar in March of this year, you'll be at least a Superstar for the rest of this year and all of next year. If you keep renting and purchasing enought to mecome a Legend during this time, you'll level up and be a Legend for the rest of that year and the next. Visit <a href=\"https://www.redbox.com/perks/\">https://www.redbox.com/perks</a> and scroll down the page to learn more about the different levels in the program.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "5000",
+              "Answer ID": "1764",
+              "Summary": "Earning Badges",
+              "Status": "Public",
+              "Product": "Troubleshooting",
+              "Sub-Product": "My Account",
+              "Answer": "Badges are part of the Perks program that can be earned for any activity. Badges are awesome to earn on their own, but Superstars and Legends also get points per earned badge.<br/>\n<br/>\n1. Superstars: 50 points per badge<br/>\n2. Legends: 100 points per badge<br/>\n<br/>\nVisit <a href=\"https://www.redbox.com/perks/\">https://www.redbox.com/perks</a> and scroll to the More Ways To Earn section to learn more about Badges.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "Give Gifts": {
+    "sub_products": {
+      "Promo Codes": {
+        "answers": [
+          [
+            {
+              "Order": "6000",
+              "Answer ID": "1674",
+              "Summary": "Payment",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "We accept the following forms of payment for rentals and purchases:<br/>\n<br/>\n<b>At the Box</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, Discover<br/>\n3. Redbox Cards<br/>\n4. MasterPass <a href=\"https://masterpass.com/en-us.html\">https://masterpass.com/en-us.html</a><br/>\n<br/>\n<br/>\n<b>On Demand</b><br/>\n<br/>\n1. Debit Cards<br/>\n2. Credit Cards: Visa, Mastercard, American Express, or Discover<br/><br/><br/>\n<b>E-Gift Cards and Promo Codes</b><br/><br/>\n1. Credit Cards: Visa, Mastercard, American Express, or Discover<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "6000",
+              "Answer ID": "1741",
+              "Summary": "Using an E-Gift Card",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "You can use your Redbox E-Gift Card* to reserve movies for pickup at any U.S. location. Here's how:<br/>\n<br/>\n<b>Activating the E-Gift Card</b><br/>\n<br/>\n1. Select on the Activation link in the email.<br/>\n2. Login to your <a href=\"https://www.redbox.com\">https://www.redbox.com</a>.<br/>\n3. Scroll to Payment Methods<br/>\n4. Select Add Gift Card.<br/>\n5. Enter the 16-digit card number.<br/>\n6. Enter the PIN Code.<br/>\n7. Select Add.<br/>\n<br/>\n<b>Renting a Movie Using Your E-Gift Card</b><br/>\n<br/>\n1. Pick a movie at <a href=\"https://www.redbox.com\">https://www.redbox.com</a>, or through your mobile app, and add it to your cart. You can select up to two movies.<br/>\n2. Select Use Saved Redbox Card at checkout and finish the reservation process.<br/>\n3. When you pick up your movie at the box, you can swipe any valid payment card that's associated with your https://www.redbox.com account.<br/>\n4. Enjoy the show!\n<br/><br/>\nTo check your E-Gift Card balance, visit <a href=\"https://www.redbox.com/account/redboxcards\">https://www.redbox.com/account/redboxcards</a>.<br/>\n<br/>\n*E-Gift Cards can only be used to rent DVD and Blu-rayTM discs.<br/>\n*E-Gift Cards cannot be reloaded with extra funds, simply purchase an additional card instead.<br/>\n*E-Gift Cards must be associated with your Redbox Online Profile.<br/>\n*E-Gift Cards must be associated with an accepted form of payment (credit or debit card).",
+              "Popular": "0"
+            },
+            {
+              "Order": "6000",
+              "Answer ID": "1742",
+              "Summary": "Purchasing an E-Gift Card",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "You can purchase a Redbox E-Gift card for yourself or someone else at <a href=\"https://www.redbox.com/gifts\">https://www.redbox.com/gifts</a>. Simply enter the recipients' email address, and they will receive your gift via email.<br/> <br/> You can select one or multiple recipients, select a gift card graphic from a range of choices, and write a personalized message. E-Gift card amounts are available from $5 to a maximum of $150.00 in $5 increments.  Please note that:<br/> <br/> 1. Once you've purchased an E-Gift card, you can't add more money to the same card. Instead, simply purchase a new E-Gift card to increase the amount. <br/> 2. E-Gift cards are for use on DVDs and Blu-ray™ discs.<br/> 3. E-Gift cards must be associated with a Redbox.com profile.<br/> 4. E-Gift cards must be associated with an accepted form of payment.<br/> 5. E-Gift cards are non-refundable<br/> <br/> If you have problems related to purchasing an E-Gift card, you can contact customer care by visiting <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a>.",
+              "Popular": "0"
+            },
+            {
+              "Order": "6000",
+              "Answer ID": "1743",
+              "Summary": "Purchasing Promo Codes",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "You can purchase Redbox Promo Codes for yourself or someone else at <a href=\"https://www.redbox.com/gifts\">https://www.redbox.com/gifts</a>.  Promo codes can be used for 1-day rentals on DVDs, Blu-ray<span style=\"font-size:70%;vertical-align:super;\">TM</span> discs.. These promo codes don't expire and any extra-day charges are the responsibility of whoever rents the discs.<br/> <br/> We sell packages of 5, 10, 20, or 50 promo codes.  They're delivered via email, and they can be used at any Redbox location in the United States.<br/> <br/> If you want to divide the promo codes among a number of people, select yourself as the recipient and have the promo codes emailed to you. You can send the codes out via email or print them out.<br/> <br/> You will receive the promo codes shortly after making the purchase. If you don't receive them right away, it might be delayed due to your email carrier. If you haven't received an email in four hours and you've checked your spam folder, then contact us at <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> or call us at 1-866-REDBOX3.",
+              "Popular": "0"
+            },
+            {
+              "Order": "6000",
+              "Answer ID": "1758",
+              "Summary": "Puerto Rican Residents",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Promo Codes",
+              "Answer": "In order to purchase promotional codes or E-Gift cards, the purchaser must have a valid payment card with a mailing address located in one of the fifty U.S. States. Once purchased, the promotional code or E-Gift card can be used at any Box located in Puerto Rico.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Troubleshooting": {
+        "answers": [
+          [
+            {
+              "Order": "6000",
+              "Answer ID": "1759",
+              "Summary": "Physical Redbox Gift Cards",
+              "Status": "Public",
+              "Product": "Give Gifts",
+              "Sub-Product": "Troubleshooting",
+              "Answer": "We no longer sell physical Redbox cards, but we still accept them at this time.<br/>\n<br/>\nYou can purchase E-Gift Cards or Promo Codes at <a href=\"https://www.redbox.com/gifts\">https://www.redbox.com/gifts</a>.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "About Redbox": {
+    "sub_products": {
+      "General Company Info": {
+        "answers": [
+          [
+            {
+              "Order": "7000",
+              "Answer ID": "1721",
+              "Summary": "Privacy and Security",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "Redbox uses state-of-the-art technology to ensure the privacy of all of your data, and Redbox never shares your information or sells it to third parties. When you open a Redbox account, you'll enter your name, email address, and ZIP code (as well as some email preferences). Redbox uses your email address to send you return confirmations and receipts. You can opt in or out of other communications.<br/>\n<br/>\nIf you use a credit card to pay online, your credit card is stored using Secure Socket Layer (SSL) software to encrypt your data during transmission meeting the Data Security Standard of the credit card industry. For more information on our privacy policy, visit <a href=\"https://www.redbox.com/privacy\">https://www.redbox.com/privacy</a><br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "7000",
+              "Answer ID": "1733",
+              "Summary": "Company history",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "With more than 5-billion rentals to date, Redbox is America's leading source for affordable new release movie rentals. Redbox offers DVD, Blu-ray Disc®  through the nation's largest network of more than 41,500 conveniently located, self-service entertainment kiosks, and On Demand movies and TV shows, without a subscription. To learn more about our colorful history, visit us at <a href=\"https://about.redbox.com/about-redbox\">https://about.redbox.com/about-redbox</a>.",
+              "Popular": "0"
+            },
+            {
+              "Order": "7000",
+              "Answer ID": "1734",
+              "Summary": "New boxes and franchising",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "Before a box is installed, an analysis of a location's suitability needs to be done. If you would like a box at your location, please complete the form at <a href=\"https://about.redbox.com/request-a-kiosk\">https://about.redbox.com/request-a-kiosk</a> to start the analysis process.<br/>\n<br/>\nAt this time, we don't have any franchising opportunities.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "7000",
+              "Answer ID": "1735",
+              "Summary": "Careers",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "Keep your eyes on the Redbox. Open positions list at <a href=\"https://jobs.redbox.com/\">https://jobs.redbox.com</a>. If Redbox is hiring, you'll see it here!",
+              "Popular": "0"
+            },
+            {
+              "Order": "7000",
+              "Answer ID": "1738",
+              "Summary": "Copyrights",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "Federal copyright laws prohibit copying or burning rented material.<br/>",
+              "Popular": "0"
+            },
+            {
+              "Order": "7000",
+              "Answer ID": "1739",
+              "Summary": "Contact Us",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "General Company Info",
+              "Answer": "You can contact the Customer Care team by visiting <a href=\"https://redbox.custhelp.com/app/chat/chat_launch?icamp=custhelp:chatlaunch:button:4:23:2014\">https://redbox.custhelp.com/app/chat</a> or by calling <b>1-866-REDBOX3</b> (<b>1-866-733-2693</b>). Customer care is available 7 days a week from 6:00 a.m. to 12:00 a.m. Central Time. <br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      },
+      "Terms & Conditions": {
+        "answers": [
+          [
+            {
+              "Order": "7000",
+              "Answer ID": "1737",
+              "Summary": "Terms of Use",
+              "Status": "Public",
+              "Product": "About Redbox",
+              "Sub-Product": "Terms & Conditions",
+              "Answer": "You can read the Redbox terms and conditions by visiting <a href=\"https://www.redbox.com/rentalterms\">https://www.redbox.com/rentalterms</a>.<br/>",
+              "Popular": "0"
+            }
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+.navigation {
+  border-radius: 8px;
+  border: solid 1px #5e5661;
+  color: #fff;
+  flex-basis: 392px;
+  padding-left: 24px;
+  padding-right: 24px;
+
+  &__list {
+    list-style-type: none;
+    padding: 0;
+
+    &-item {
+      color: #fff;
+      display: flex;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 24px;
+      margin: 16px 0;
+      position: relative;
+      text-decoration: none;
+      transition: all 0.2s;
+
+      &.active {
+        font-weight: 800;
+        padding-left: 12px;
+
+        &::before {
+          border-left: solid 4px #fff;
+          content: "";
+          display: block;
+          height: 40px;
+          left: -8px;
+          position: absolute;
+          top: -8px;
+        }
+      }
+
+      &:hover {
+        padding-left: 12px;
+      }
+    }
+  }
+
+  &__divider {
+    border: 0;
+    border-top: 1px solid #5e5661;
+    display: inline-flex;
+    width: 28px;
+  }
+
+  .accordion {
+    &__button {
+      justify-content: space-between;
+    }
+  }
+}
